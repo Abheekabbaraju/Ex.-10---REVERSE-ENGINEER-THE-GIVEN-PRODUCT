@@ -31,6 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![61QeNWSSHaL _SL1001_](https://github.com/user-attachments/assets/2bf3186b-cbec-4ee7-b1c6-dea3adcdb87e)
 
 ### Output:
 ![Screenshot (28)](https://github.com/user-attachments/assets/86745d00-e08c-43a4-a3a1-1d71ed07331f)
