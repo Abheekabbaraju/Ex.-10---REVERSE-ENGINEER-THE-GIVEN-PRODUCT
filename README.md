@@ -33,6 +33,7 @@
 ## Input:
 
 ### Output:
+![Screenshot (28)](https://github.com/user-attachments/assets/86745d00-e08c-43a4-a3a1-1d71ed07331f)
 
 
 ### Name:
