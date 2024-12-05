@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 28/11/24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -35,6 +35,7 @@
 
 ### Output:
 ![Screenshot (28)](https://github.com/user-attachments/assets/86745d00-e08c-43a4-a3a1-1d71ed07331f)
+![Screenshot (42)](https://github.com/user-attachments/assets/86ad6102-0d33-4e66-a6e4-ba28192c4aff)
 
 
 ### Name:abheek .a
